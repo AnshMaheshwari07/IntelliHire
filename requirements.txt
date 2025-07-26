@@ -1,0 +1,6 @@
+load_dotenv
+pymupdf
+aiohttp
+huggingface_hub
+google-genai
+transformers
